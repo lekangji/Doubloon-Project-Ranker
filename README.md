@@ -1,6 +1,6 @@
 # Doubloon-Project-Ranker
 ### A simple tool to manage and rank projects based on their efficiency. This tool helps decide which project to push updates to! This tool also estimates how long it will take for you to reach a certain amount of doubloons.
-![Thumbnail](https://raw.githubusercontent.com/22yeets22/Doubloon-Project-Ranker/refs/heads/main/Doubloon-Ranker.png "Thumbnail")
+![Thumbnail](https://raw.githubusercontent.com/lekangji/Doubloon-Project-Ranker/refs/heads/main/Doubloon-Ranker.png "Thumbnail")
 
 ## Features
 - **Add Projects**: Create new projects with title, doubloons earned, and hours spent.
@@ -13,4 +13,4 @@
 - **Beautiful Animations**: Great animations!
 
 ## Demo
-[Doubloon Project Ranker](https://22yeets22.github.io/Doubloon-Project-Ranker/)
+[Doubloon Project Ranker](https://lekangji.github.io/Doubloon-Project-Ranker/)
