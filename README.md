@@ -13,4 +13,4 @@
 - **Beautiful Animations**: Great animations!
 
 ## Demo
-[Doubloon Project Ranker](https://lekangji.github.io/Doubloon-Project-Ranker/)
+[Doubloon Project Ranker](https://doubloon.lekangji.cc)
